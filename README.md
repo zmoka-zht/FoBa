@@ -187,10 +187,10 @@ python script/infer_MambaBCD.py  --dataset 'SECOND'  \
 | VMamba-Base |  [[GDrive](https://drive.google.com/file/d/1kUHSBDoFvFG58EmwWurdSVZd8gyKWYfr/view?usp=drive_link)]
 
 ### `B. Semantic Change Detection`
-| Method | SECOND (ckpt) | LevirCD (ckpt) | SYSU-CD (ckpt) |
-| :---: | :---: | :---: | :---: |
-| FoBaMambaBased | [[BaiduYun](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)] (**Extraction code:** `foba`)
-| FoBaTransformerBased | [[BaiduYun](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)] (**Extraction code:** `foba`)
+| Method | Checkpoints |
+| :---: | :---: |
+| FoBaMambaBased | [SECOND + LevirSCD + JL1](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg) (**Extraction code:** `foba`)
+| FoBaTransformerBased | [SECOND + LevirSCD + JL1](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg) (**Extraction code:** `foba`)
 
 ## 📜Reference
 
