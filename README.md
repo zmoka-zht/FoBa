@@ -133,7 +133,7 @@ cd <project_path>/FoBa/changedetection
 ```
 ***Semantic change detection***
 
-The following commands show how to train and evaluate MambaSCD-Small on the SECOND dataset:
+The following commands show how to train and evaluate FoBa on the SECOND dataset:
 ```bash
 python script/train_foba.py  --dataset 'SECOND' \
                                  --batch_size 2 \
