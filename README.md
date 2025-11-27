@@ -92,8 +92,6 @@ Or you are welcome to directly download and use our **preprocessed SECOND datase
 - **Baidu Netdisk:** [Download link](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)  
   **Extraction code:** `foba`  
 
-- **Google Drive:** [Download link]()
-
 ```
 ${DATASET_ROOT} # Dataset root directory, for example: /home/username/data/SECOND
 ├── train
