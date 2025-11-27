@@ -18,7 +18,7 @@
 ## 🛎️Updates
 * **` Notice`**: FoBa has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11268372)! We'd appreciate it if you could give this repo a ⭐️**star**⭐️ and stay tuned!!
 
-* **` November 18th, 2025`**: ChangeMamba has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11268372)!!
+* **` November 18th, 2025`**: FoBa has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11268372)!!
 
 ## 🔭Overview
 
