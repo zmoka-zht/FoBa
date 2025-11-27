@@ -26,13 +26,13 @@
 
 * **The LevirSCD dataset**
 <p align="center">
-  <img src="figures/levirscd_vis_static.pdf" alt="accuracy" width="90%">
+  <img src="figures/levirscd.png" alt="accuracy" width="90%">
 </p>
 
 * **The architecture of FoBa**
 
 <p align="center">
-  <a href="vis_overview.pdf">FoBa Architecture (PDF)</a>
+  <img src="foba_overview.png" alt="accuracy" width="90%">
 </p>
 
 
