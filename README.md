@@ -32,7 +32,7 @@
 * **The architecture of FoBa**
 
 <p align="center">
-  <img src="foba_overview.png" alt="accuracy" width="90%">
+  <img src="figures/foba_overview.png" alt="accuracy" width="90%">
 </p>
 
 
