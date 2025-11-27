@@ -39,7 +39,7 @@
 ## 🗝️开始使用!
 ### `一、安装`
 
-此仓库的代码是在 **Linux** 系统下运行的。我们尚未测试是否能在其他操作系统下运行。.
+此仓库的代码是在 **Linux** 系统下运行的。我们尚未测试是否能在其他操作系统下运行。
 
 首先需要安装 [VMama 仓库](https://github.com/MzeroMiko/VMamba) 或 [ChangeMamba 仓库](https://github.com/ChenHongruixuan/ChangeMamba)。以下安装顺序取自VMama仓库。
 
@@ -78,7 +78,7 @@ pip install mmengine==0.10.1 mmcv==2.1.0 opencv-python-headless ftfy regex
 pip install mmdet==3.3.0 mmsegmentation==1.2.2 mmpretrain==1.2.0
 ```
 ### `二、 下载预训练权重`
-另外，请下载[VMamba-Tiny](https://drive.google.com/file/d/160PXughGMNZ1GyByspLFS68sfUdrQE2N/view?usp=drive_link), [VMamba-Small](https://drive.google.com/file/d/1dxHtFEgeJ9KL5WiLlvQOZK5jSEEd2Nmz/view?usp=drive_link), 和[VMamba-Base](https://drive.google.com/file/d/1kUHSBDoFvFG58EmwWurdSVZd8gyKWYfr/view?usp=drive_link) 在ImageNet上的预训练权重并把它们放在下述文件夹中
+另外，请下载[VMamba-Tiny](https://drive.google.com/file/d/160PXughGMNZ1GyByspLFS68sfUdrQE2N/view?usp=drive_link), [VMamba-Small](https://drive.google.com/file/d/1dxHtFEgeJ9KL5WiLlvQOZK5jSEEd2Nmz/view?usp=drive_link), 和[VMamba-Base](https://drive.google.com/file/d/1kUHSBDoFvFG58EmwWurdSVZd8gyKWYfr/view?usp=drive_link) 在ImageNet上的预训练权重并把它们放在下述文件夹中。
 ```bash
 project_path/FoBa/pretrained_weight/
 ```
@@ -170,9 +170,6 @@ python script/infer_foba_second.py  --dataset 'SECOND'  \
 
 
 ## ⚗️结果下载
-
-
-* *我们上传到Github的代码是经过重新组织整理的。下面提供的模型权重也是采用重新组织整理后的代码训练得到的。因此精度可能会和原始论文不完全一致。*
 
 ### `一、 VMamba (编码器)的预训练权重`
 
