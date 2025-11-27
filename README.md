@@ -178,23 +178,19 @@ python script/infer_MambaBCD.py  --dataset 'SECOND'  \
 
 * *Please note that the code we uploaded was reorganised and collated. The models below were also trained using the reorganised code and therefore accuracy may not perfectly match the original paper. In most cases, the accuracy is higher than that in the paper.*
 
-* *We also uploaded prediction results. You can download them and use them directly in your paper [[GDrive](https://drive.google.com/drive/folders/1kVKgbElM23c-hSNZ_TTqfxXNXrPgNJ6L?usp=sharing)][[BaiduYun](https://pan.baidu.com/s/1RYXRL0emsKDL_9_v82nIjQ?pwd=df2t)].*
-
-
 ### `A. Pretrained Weight of VMamba (Encoder)`
 
 | Method | ImageNet (ckpt) | 
 | :---: | :---: |
-| VMamba-Tiny | [[GDrive](https://drive.google.com/file/d/160PXughGMNZ1GyByspLFS68sfUdrQE2N/view?usp=drive_link)][[BaiduYun](https://pan.baidu.com/s/1P9KRVy4lW8LaKJ898eQ_0w?pwd=7qxh)] |   
-| VMamba-Small | [[GDrive](https://drive.google.com/file/d/1dxHtFEgeJ9KL5WiLlvQOZK5jSEEd2Nmz/view?usp=drive_link)][[BaiduYun](https://pan.baidu.com/s/1RRjTA9ONhO43sBLp_a2TSw?pwd=6qk1)]   | 
-| VMamba-Base |  [[GDrive](https://drive.google.com/file/d/1kUHSBDoFvFG58EmwWurdSVZd8gyKWYfr/view?usp=drive_link)][[BaiduYun](https://pan.baidu.com/s/14_syzqwNnVB8rD3tejEZ4w?pwd=q825)] |
+| VMamba-Tiny | [[GDrive](https://drive.google.com/file/d/160PXughGMNZ1GyByspLFS68sfUdrQE2N/view?usp=drive_link)]    
+| VMamba-Small | [[GDrive](https://drive.google.com/file/d/1dxHtFEgeJ9KL5WiLlvQOZK5jSEEd2Nmz/view?usp=drive_link)] 
+| VMamba-Base |  [[GDrive](https://drive.google.com/file/d/1kUHSBDoFvFG58EmwWurdSVZd8gyKWYfr/view?usp=drive_link)]
 
 ### `B. Semantic Change Detection`
-| Method |  SECOND (ckpt) | 
-| :---: | :---: |
-| MambaSCD-Tiny |  [[GDrive](https://drive.google.com/file/d/1Q2hMC320vCpp5MQA8SK54iFY7L5JF9qN/view?usp=sharing)][[BaiduYun](https://pan.baidu.com/s/1eHUjKm8Ty0w92BvOoj53Fw?pwd=6hnj)]  |
-| MambaSCD-Small | --  | 
-| MambaSCD-Base | [[GDrive](https://drive.google.com/file/d/12aJ4sL0r02-rB5K6dixtr6FGJ3kNwlFy/view?usp=sharing)][[BaiduYun](https://pan.baidu.com/s/1GxNDC2JAEvPmOiNArLrYmw?pwd=sr3i)]  |
+| Method | SECOND (ckpt) | LevirCD (ckpt) | SYSU-CD (ckpt) |
+| :---: | :---: | :---: | :---: |
+| FoBaMambaBased | [[BaiduYun](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)] (**Extraction code:** `foba`)
+| FoBaTransformerBased | [[BaiduYun](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)] (**Extraction code:** `foba`)
 
 ## 📜Reference
 
@@ -219,4 +215,4 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 
 ## 🙋Q & A
 ***For any questions, please feel free to [contact us.](haotianzhang@buaa.edu.cn)***
->>>>>>> 8324c32 (initial commit)
+
