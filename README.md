@@ -135,7 +135,7 @@ cd <project_path>/FoBa/changedetection
 
 The following commands show how to train and evaluate MambaSCD-Small on the SECOND dataset:
 ```bash
-python script/train_MambaSCD.py  --dataset 'SECOND' \
+python script/train_foba.py  --dataset 'SECOND' \
                                  --batch_size 2 \
                                  --crop_size 512 \
                                  --max_iters 480000 \
@@ -159,7 +159,7 @@ cd <project_path>/FoBa/changedetection
 
 The following commands show how to infer semantic change maps using trained MambaSCD-Tiny on the SECOND dataset:
 ```bash
-python script/infer_MambaBCD.py  --dataset 'SECOND'  \
+python script/infer_foba_second.py  --dataset 'SECOND'  \
                                  --model_type 'FoBaMambaBased' \
                                  --test_dataset_path '<dataset_path>/SECOND/test' \
                                  --test_data_list_path '<dataset_path>/SECOND/list\test_list.txt' \
@@ -204,9 +204,29 @@ If this code or dataset contributes to your research, please kindly consider cit
   pages={1-1},
   keywords={Semantics;Remote sensing;Transformers;Feature extraction;Annotations;Roads;Multitasking;Spatial resolution;Landsat;Land surface;Semantic change detection (SCD);foreground-background co-guided;bi-temporal interaction;mamba;new benchmark},
   doi={10.1109/TGRS.2025.3636947}}
+
+@ARTICLE{10902569,
+  author={Zhang, Haotian and Chen, Keyan and Liu, Chenyang and Chen, Hao and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  keywords={Feature extraction;Transformers;Remote sensing;Convolutional neural networks;Visualization;Artificial intelligence;Spatiotemporal phenomena;Computational modeling;Attention mechanisms;Computer vision;Bi-temporal interaction;change detection (CD);high-resolution optical remote sensing image;Mamba;state-space model},
+  doi={10.1109/TGRS.2025.3545012}}
+
+@ARTICLE{10471555,
+  author={Zhang, Haotian and Chen, Hao and Zhou, Chenyao and Chen, Keyan and Liu, Chenyang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Feature extraction;Task analysis;Remote sensing;Transformers;Interference;Decoding;Optical flow;Bitemporal interaction (BI);change detection (CD);feature alignment;flow field;high-resolution optical remote sensing image;implicit neural representation},
+  doi={10.1109/TGRS.2024.3376673}}
 ```
-
-
 
 ## 🤝Acknowledgments
 This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), ChangeMamba ([paper](https://ieeexplore.ieee.org/document/10565926), [code](https://github.com/ChenHongruixuan/ChangeMamba)). Thanks for their excellent works!!
