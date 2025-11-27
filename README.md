@@ -234,6 +234,4 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 
 ## Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=zmoka-zht/FoBa&type=Date)](https://star-history.com/#zmoka-zht/FoBa&Date)
