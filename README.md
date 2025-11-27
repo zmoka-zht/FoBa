@@ -234,4 +234,6 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=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/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&type=timeline&legend=top-left)](https://www.star-history.com/#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/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&type=timeline&legend=top-left)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=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/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&type=date&legend=top-left)](https://www.star-history.com/#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/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&type=date&legend=top-left)
