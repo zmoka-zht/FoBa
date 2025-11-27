@@ -157,7 +157,7 @@ cd <project_path>/FoBa/changedetection
 
 ***Semantic change detection***
 
-The following commands show how to infer semantic change maps using trained MambaSCD-Tiny on the SECOND dataset:
+The following commands show how to infer semantic change maps using trained FoBa on the SECOND dataset:
 ```bash
 python script/infer_foba_second.py  --dataset 'SECOND'  \
                                  --model_type 'FoBaMambaBased' \
