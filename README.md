@@ -232,3 +232,6 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 ## 🙋Q & A
 ***For any questions, please feel free to [contact us.](haotianzhang@buaa.edu.cn)***
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=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/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&type=timeline&legend=top-left)](https://www.star-history.com/#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/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&type=timeline&legend=top-left)
