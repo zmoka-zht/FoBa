@@ -24,14 +24,15 @@
 
 * [**FoBa**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11268372) serves as a strong benchmark for semantic change detection tasks. 
 
+* **The LevirSCD dataset**
 <p align="center">
-  <img src="figures/levirscd.png" alt="accuracy" width="90%">
+  <img src="figures/levirscd_vis_static.pdf" alt="accuracy" width="90%">
 </p>
 
 * **The architecture of FoBa**
 
 <p align="center">
-  <img src="figures/foba.png" alt="arch" width="60%">
+  <img src="vis_overview.pdf" alt="arch" width="60%">
 </p>
 
 
