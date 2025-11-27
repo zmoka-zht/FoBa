@@ -32,7 +32,7 @@
 * **The architecture of FoBa**
 
 <p align="center">
-  <img src="vis_overview.pdf" alt="arch" width="60%">
+  <a href="vis_overview.pdf">FoBa Architecture (PDF)</a>
 </p>
 
 
