@@ -92,28 +92,27 @@ Or you are welcome to directly download and use our **preprocessed SECOND, Levir
 - **Baidu Netdisk:** [Download link](https://pan.baidu.com/s/11mcbilrctWH02sazZEt3Xg)  
   **Extraction code:** `foba`  
 
+```markdown
 <details>
-<summary><b>📋 Click to expand: LEVIR-SCD Class ID and RGB Visualization Mappings</b></summary>
-Class to ID Mapping:{
-        "background": 0,
-        "Sparse woodland": 1,
-        "Low vegetation": 2,
-        "Woodland": 3,
-        "Playground": 4,
-        "Low building": 5,
-        "General building": 6,
-        "Unpaved Road": 7,
-        "Bare Land": 8,
-        "Construction land": 9,
-        "Parking Lot": 10,
-        "Others": 11,
-        "River": 12,
-        "Impervious surfaces": 13,
-        "Paved Road": 14,
-        "High building": 15,
-        "Water": 16
-}
-Note: You can find the implementation of the visualization code [here](https://github.com/zmoka-zht/FoBa/blob/main/changedetection/script/infer_foba_levirscd.py).
+<summary><b>📋 Click to expand: LEVIR-SCD Class ID Mapping</b></summary>
+<br>
+
+| Class Name | ID | Class Name | ID |
+| :--- | :---: | :--- | :---: |
+| **background** | 0 | **Construction land** | 9 |
+| **Sparse woodland** | 1 | **Parking Lot** | 10 |
+| **Low vegetation** | 2 | **Others** | 11 |
+| **Woodland** | 3 | **River** | 12 |
+| **Playground** | 4 | **Impervious surfaces** | 13 |
+| **Low building** | 5 | **Paved Road** | 14 |
+| **General building** | 6 | **High building** | 15 |
+| **Unpaved Road** | 7 | **Water** | 16 |
+| **Bare Land** | 8 | | |
+
+<br>
+
+*Note: You can find the implementation of the visualization code [here](https://github.com/zmoka-zht/FoBa/blob/main/changedetection/script/infer_foba_levirscd.py).*
+
 </details>
 
 ```
