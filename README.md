@@ -117,6 +117,7 @@ Or you are welcome to directly download and use our **preprocessed SECOND, Levir
     "High building": 15,
     "Water": 16
 }
+```
 *Note: You can find the implementation of the visualization code [here](https://github.com/zmoka-zht/FoBa/blob/main/changedetection/script/infer_foba_levirscd.py).*
 </details>
 
